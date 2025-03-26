@@ -10,7 +10,7 @@ body {
 
 .header {
   box-sizing: border-box;
-  margin: 45000px 0 25000px 0;
+  margin: 45px 0 25px 0;
   display: flex;
 
   width: 500px;

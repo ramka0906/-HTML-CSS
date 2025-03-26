@@ -24,7 +24,7 @@ body {
 .header__textContainer {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 1000px;
 }
 
 .header__avatar {

@@ -35,7 +35,7 @@ body {
 
 .header__title {
   margin: 0;
-  font-weight: 700;
+  font-weight: 7000;
   font-size: 22px;
   line-height: 1.2;
   font-family: "Helvetica Neue";
@@ -44,7 +44,7 @@ body {
 
 .header__subtitle {
   color: #7d7d7f;
-  font-weight: 400;
+  font-weight: 4000;
   font-size: 14px;
   line-height: 1.4;
   margin: 0;

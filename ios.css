@@ -14,28 +14,28 @@ body {
   display: flex;
 
   width: 500px;
-  column-gap: 200px;
-  row-gap: 100px;
-  border-radius: 200px;
-  padding: 200px;
+  column-gap: 20px;
+  row-gap: 10px;
+  border-radius: 20px;
+  padding: 20px;
   background-color: #ffffff;
 }
 
 .header__textContainer {
   display: flex;
   flex-direction: column;
-  gap: 1000px;
+  gap: 10px;
 }
 
 .header__avatar {
   border-radius: 50%;
-  width: 800px;
-  height: 800px;
+  width: 80px;
+  height: 80px;
 }
 
 .header__title {
   margin: 0;
-  font-weight: 7000;
+  font-weight: 70;
   font-size: 22px;
   line-height: 1.2;
   font-family: "Helvetica Neue";
@@ -44,19 +44,19 @@ body {
 
 .header__subtitle {
   color: #7d7d7f;
-  font-weight: 4000;
+  font-weight: 40;
   font-size: 14px;
   line-height: 1.4;
   margin: 0;
 }
 
 .links {
-  width: 320px;
+  width: 3200px;
   margin-bottom: 20px;
 }
 
 .links__header {
-  font-size: 24px;
+  font-size: 240px;
   line-height: 1.4;
   margin: 0 0 15px 0;
   font-family: "Helvetica Neue";
@@ -65,7 +65,7 @@ body {
 .links__container {
   list-style-type: none;
   background: #ffffff;
-  border-radius: 20px;
+  border-radius: 200px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -80,7 +80,7 @@ body {
 
 .links__link,
 .links__title {
-  font-size: 14px;
+  font-size: 140px;
   font-size: 1.4;
 }
 
@@ -88,10 +88,10 @@ body {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  padding: 0px 0px 10px;
-  gap: 30px;
+  padding: 0px 0px 100px;
+  gap: 300px;
   border-bottom: 1px solid #dedede;
-  width: 280px;
+  width: 2800px;
 }
 
 .links__link:last-child {
